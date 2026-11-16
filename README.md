@@ -2,8 +2,8 @@
 
 회원가입·로그인(JWT), 게시글·댓글 CRUD, 작성자 권한 검사, 첨부파일 업로드를 제공하는 RESTful 게시판 API입니다.
 
-- 배포 주소: http://EC2-PUBLIC-IP
-- Swagger UI: http://EC2-PUBLIC-IP/docs
+- 배포 주소: http://16.179.220.199/health
+- Swagger UI:http://16.179.220.199/docs
 - 기술: FastAPI, SQLAlchemy 2.0 (async) + asyncpg, PostgreSQL 16, Pydantic v2, PyJWT, bcrypt, Docker Compose, AWS EC2
 
 ## API 목록
